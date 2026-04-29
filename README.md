@@ -8,3 +8,6 @@ Basit bir merhaba dunya projesi.
 
 ## Kurulum
 git clone repo-url
+
+## Lisans
+MIT
