@@ -5,3 +5,6 @@ Basit bir merhaba dunya projesi.
 - HTML
 - CSS
 - JavaScript
+
+## Kurulum
+git clone repo-url
